@@ -6,7 +6,7 @@ label: "SNOWFLAE"
 include: "*.view"
 
 # include all the dashboards
-#include: "*.dashboard"
+# include: "*.dashboard"
 
 explore: camp_hdr {
   label: "Campaigns"
