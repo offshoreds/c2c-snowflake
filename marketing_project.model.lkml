@@ -6,7 +6,7 @@ label: "SNOWFLAE"
 include: "*.view"
 
 # include all the dashboards
-# include: "*.dashboard"
+ include: "*.dashboard"
 
 explore: camp_hdr {
   label: "Campaigns"
@@ -52,3 +52,13 @@ explore: pipeline {
   label: "Opportunity Pipeline"
   view_label: "Opportunity Pipeline"
 }
+
+explore: orders_items {
+  label: "Order items"
+
+  join: orders {
+    view_label: "Orders"
+    type: left_outer
+    relationship: many_to_one
+    sql_on: ${orders.id}=${orders_items.order_id};;
+}}
