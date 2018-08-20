@@ -179,7 +179,7 @@ view: campaign_summary {
 
     link: {
       label: "Opportunity Details"
-      url: "/dashboards/c2c_model::opportunity"
+      url: "/dashboards/marketing_project::opportunity"
     }
   }
 
@@ -265,7 +265,7 @@ view: campaign_summary {
 
     link: {
       label: "Order details"
-      url: "/dashboards/c2c_model::orders"
+      url: "/dashboards/marketing_project::orders"
     }
   }
 
@@ -278,7 +278,7 @@ view: campaign_summary {
 
     link: {
       label: "Order details"
-      url: "/dashboards/c2c_model::orders"
+      url: "/dashboards/marketing_project::orders"
     }
   }
 
