@@ -121,7 +121,7 @@ view: opty_hdr1 {
 
     link: {
       label: "Opportunity Details"
-      url: "/dashboards/c2c_model::opportunity"
+      url: "/dashboards/marketing_project::opportunity"
     }
   }
 
@@ -136,7 +136,7 @@ view: opty_hdr1 {
 
     link: {
       label: "Opportunity Details"
-      url: "/dashboards/c2c_model::opportunity"
+      url: "/dashboards/marketing_project::opportunity"
     }
   }
 
@@ -148,7 +148,7 @@ view: opty_hdr1 {
 
     link: {
       label: "Order details"
-      url: "/dashboards/c2c_model::orders"
+      url: "/dashboards/marketing_project::orders"
     }
   }
 
@@ -238,7 +238,7 @@ view: opty_hdr1 {
 
     link: {
       label: "Opportunity Details"
-      url: "/dashboards/c2c_model::opportunity"
+      url: "/dashboards/marketing_project::opportunity"
     }
   }
 
