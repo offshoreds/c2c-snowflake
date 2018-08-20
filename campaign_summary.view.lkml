@@ -227,7 +227,7 @@ view: campaign_summary {
 
     link: {
       label: "Campaign Details"
-      url: "/dashboards/c2c_model::campaign?Year=&Quarter=&Parent Campaign=&Campaign=&Campaign Type=&filter_config={\"Year\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":0}],\"Quarter\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":1}],\"Parent Campaign\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":2}],\"Campaign\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":3}],\"Campaign Type\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":4}]}"
+      url: "/dashboards/marketing_project::campaign?Year=&Quarter=&Parent Campaign=&Campaign=&Campaign Type=&filter_config={\"Year\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":0}],\"Quarter\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":1}],\"Parent Campaign\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":2}],\"Campaign\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":3}],\"Campaign Type\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":4}]}"
     }
   }
 
@@ -323,7 +323,7 @@ view: campaign_summary {
 
     link: {
       label: "Campaign Details"
-      url: "/dashboards/c2c_model::campaign?Year=&Quarter=&Parent Campaign=&Campaign=&Campaign Type=&filter_config={\"Year\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":0}],\"Quarter\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":1}],\"Parent Campaign\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":2}],\"Campaign\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":3}],\"Campaign Type\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":4}]}"
+      url: "/dashboards/marketing_project::campaign?Year=&Quarter=&Parent Campaign=&Campaign=&Campaign Type=&filter_config={\"Year\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":0}],\"Quarter\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":1}],\"Parent Campaign\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":2}],\"Campaign\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":3}],\"Campaign Type\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":4}]}"
     }
   }
 
@@ -382,7 +382,7 @@ view: campaign_summary {
 
     link: {
       label: "Lead Details"
-      url: "/dashboards/c2c_model::leads?Year=&Quarter=&Parent Campaign=&Campaign=&filter_config={\"Year\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":0}],\"Quarter\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":1}],\"Parent Campaign\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":2}],\"Campaign\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":3}]}"
+      url: "/dashboards/marketing_project::leads?Year=&Quarter=&Parent Campaign=&Campaign=&filter_config={\"Year\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":0}],\"Quarter\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":1}],\"Parent Campaign\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":2}],\"Campaign\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":3}]}"
     }
   }
 
@@ -400,7 +400,7 @@ view: campaign_summary {
 
     link: {
       label: "Campaign Details"
-      url: "/dashboards/c2c_model::campaign?Year=&Quarter=&Parent Campaign=&Campaign=&Campaign Type=&filter_config={\"Year\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":0}],\"Quarter\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":1}],\"Parent Campaign\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":2}],\"Campaign\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":3}],\"Campaign Type\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":4}]}"
+      url: "/dashboards/marketing_project::campaign?Year=&Quarter=&Parent Campaign=&Campaign=&Campaign Type=&filter_config={\"Year\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":0}],\"Quarter\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":1}],\"Parent Campaign\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":2}],\"Campaign\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":3}],\"Campaign Type\":[{\"type\":\"%3D\",\"values\":[{\"constant\":\"\"},{}],\"id\":4}]}"
     }
   }
 
